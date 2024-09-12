@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: #FADAD8
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0px;
     font-size: 2vw;
@@ -8,23 +8,22 @@ body {
     margin: 0px;
     padding: 10px;
     font-family: Oswald, sans-serif;
-    box-shadow: 10px 10px 15px 5px rgb(212, 100, 13);
     /*Remove box-shadow from website logo*/
     width: 18%;
     border-radius: 35%;
     text-shadow: 
-    1px 1px 0px rgb(255, 123, 8),
-    -1px 1px 0px rgb(255, 123, 8),
-    1px -1px 0px rgb(255, 123, 8),
-    -1px -1px 0px rgb(255, 123, 8);
+    1px 1px 0px #AAABD3,
+    -1px 1px 0px #AAABD3,
+    1px -1px 0px #AAABD3,
+    -1px -1px 0px #AAABD3;
 }
 
 ul {
     margin: 0px;
 }
 body > header {
-    background-color: orange;
-    color: antiquewhite;
+    background-color: #AAABD3;
+    color: #FADAD8;
     display: flex;
     height: 8vh;
     align-items: center;
@@ -43,7 +42,7 @@ body > header > nav > ul {
     text-decoration: none;
 }
 .navbutton {
-    color: burlywood;
+    color: rgb(246, 228, 205);
     text-decoration: none;
     padding: 20px;
     border: 1px solid white;
@@ -66,9 +65,10 @@ form {
 }
 h2 {
     text-align: center;
+    color: #FADAD8;
 }
 body > footer {
-    background-color: orange;
+    background-color: #AAABD3;
     display: flex;
 
 }
