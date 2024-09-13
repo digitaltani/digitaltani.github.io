@@ -4,6 +4,9 @@ body {
     margin: 0px;
     font-size: 2vw;
 }
+body {
+    background-color: #F0E5DE;
+}
 #logo {
     margin: 0px;
     padding: 10px;
@@ -17,7 +20,6 @@ body {
     1px -1px 0px #AAABD3,
     -1px -1px 0px #AAABD3;
 }
-
 ul {
     margin: 0px;
 }
@@ -59,21 +61,36 @@ body > main article {
 #main-content > div {
     width: 70%;
 }
+#coded-bias {
+    color: #353866;
+}
+#orangutans {
+    color: #353866;
+}
+#katseye {
+    color: #353866;
+}
 form {
     text-align: center;
 
 }
-h2 {
+blockquote {
+    font-weight: bold;
+}
+#newsletter {
     text-align: center;
-    color: #FADAD8;
+    color: #353866;
 }
 body > footer {
     background-color: #AAABD3;
     display: flex;
-
 }
 img {
     border-radius: 50%;
+}
+#footer_logo {
+    margin-left: 5%;
+    color: #FADAD8;
 }
 #footer-ul {
     display: flex;
