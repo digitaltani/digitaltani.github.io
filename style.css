@@ -1,6 +1,6 @@
 body {
     background-color: #FADAD8
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family; Verdana, Geneva, Tahoma, sans-serif;
     margin: 0px;
     font-size: 2vw;
 }
@@ -86,7 +86,7 @@ body > footer {
     display: flex;
 }
 img {
-    border-radius: 50%;
+    border-radius: 30%;
 }
 #footer_logo {
     margin-left: 5%;
